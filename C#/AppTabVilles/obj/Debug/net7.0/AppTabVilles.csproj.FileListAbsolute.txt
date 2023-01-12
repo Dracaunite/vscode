@@ -1,0 +1,15 @@
+C:\Users\thoma\source\repos\Thomas\C#\AppTabVilles\bin\Debug\net7.0\AppTabVilles.exe
+C:\Users\thoma\source\repos\Thomas\C#\AppTabVilles\bin\Debug\net7.0\AppTabVilles.deps.json
+C:\Users\thoma\source\repos\Thomas\C#\AppTabVilles\bin\Debug\net7.0\AppTabVilles.runtimeconfig.json
+C:\Users\thoma\source\repos\Thomas\C#\AppTabVilles\bin\Debug\net7.0\AppTabVilles.dll
+C:\Users\thoma\source\repos\Thomas\C#\AppTabVilles\bin\Debug\net7.0\AppTabVilles.pdb
+C:\Users\thoma\source\repos\Thomas\C#\AppTabVilles\obj\Debug\net7.0\AppTabVilles.csproj.AssemblyReference.cache
+C:\Users\thoma\source\repos\Thomas\C#\AppTabVilles\obj\Debug\net7.0\AppTabVilles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\source\repos\Thomas\C#\AppTabVilles\obj\Debug\net7.0\AppTabVilles.AssemblyInfoInputs.cache
+C:\Users\thoma\source\repos\Thomas\C#\AppTabVilles\obj\Debug\net7.0\AppTabVilles.AssemblyInfo.cs
+C:\Users\thoma\source\repos\Thomas\C#\AppTabVilles\obj\Debug\net7.0\AppTabVilles.csproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\Thomas\C#\AppTabVilles\obj\Debug\net7.0\AppTabVilles.dll
+C:\Users\thoma\source\repos\Thomas\C#\AppTabVilles\obj\Debug\net7.0\refint\AppTabVilles.dll
+C:\Users\thoma\source\repos\Thomas\C#\AppTabVilles\obj\Debug\net7.0\AppTabVilles.pdb
+C:\Users\thoma\source\repos\Thomas\C#\AppTabVilles\obj\Debug\net7.0\AppTabVilles.genruntimeconfig.cache
+C:\Users\thoma\source\repos\Thomas\C#\AppTabVilles\obj\Debug\net7.0\ref\AppTabVilles.dll
