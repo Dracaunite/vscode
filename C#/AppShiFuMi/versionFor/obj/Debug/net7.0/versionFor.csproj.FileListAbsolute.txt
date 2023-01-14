@@ -1,0 +1,15 @@
+C:\Users\thoma\source\repos\Thomas\C#\AppShiFuMi\versionFor\bin\Debug\net7.0\versionFor.exe
+C:\Users\thoma\source\repos\Thomas\C#\AppShiFuMi\versionFor\bin\Debug\net7.0\versionFor.deps.json
+C:\Users\thoma\source\repos\Thomas\C#\AppShiFuMi\versionFor\bin\Debug\net7.0\versionFor.runtimeconfig.json
+C:\Users\thoma\source\repos\Thomas\C#\AppShiFuMi\versionFor\bin\Debug\net7.0\versionFor.dll
+C:\Users\thoma\source\repos\Thomas\C#\AppShiFuMi\versionFor\bin\Debug\net7.0\versionFor.pdb
+C:\Users\thoma\source\repos\Thomas\C#\AppShiFuMi\versionFor\obj\Debug\net7.0\versionFor.csproj.AssemblyReference.cache
+C:\Users\thoma\source\repos\Thomas\C#\AppShiFuMi\versionFor\obj\Debug\net7.0\versionFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\source\repos\Thomas\C#\AppShiFuMi\versionFor\obj\Debug\net7.0\versionFor.AssemblyInfoInputs.cache
+C:\Users\thoma\source\repos\Thomas\C#\AppShiFuMi\versionFor\obj\Debug\net7.0\versionFor.AssemblyInfo.cs
+C:\Users\thoma\source\repos\Thomas\C#\AppShiFuMi\versionFor\obj\Debug\net7.0\versionFor.csproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\Thomas\C#\AppShiFuMi\versionFor\obj\Debug\net7.0\versionFor.dll
+C:\Users\thoma\source\repos\Thomas\C#\AppShiFuMi\versionFor\obj\Debug\net7.0\refint\versionFor.dll
+C:\Users\thoma\source\repos\Thomas\C#\AppShiFuMi\versionFor\obj\Debug\net7.0\versionFor.pdb
+C:\Users\thoma\source\repos\Thomas\C#\AppShiFuMi\versionFor\obj\Debug\net7.0\versionFor.genruntimeconfig.cache
+C:\Users\thoma\source\repos\Thomas\C#\AppShiFuMi\versionFor\obj\Debug\net7.0\ref\versionFor.dll
