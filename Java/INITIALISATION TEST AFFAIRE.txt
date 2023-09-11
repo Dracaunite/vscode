@@ -1,0 +1,12 @@
+Employe unDeveloppeur1 = new Employe("nomDev1", "prenomDev1", "emailDev1", "02 97 44 33 22", "matriculeDev1", "01/09/2011", "Developpeur");
+Tache uneTache1 = new Tache( 1, "nom1", "specification Technique1", "date Limite Realisation1", unDeveloppeur1);
+		
+Employe unDeveloppeur2 = new Employe("nomDev2", "prenomDev2", "emailDev2", "02 97 44 33 22", "matriculeDev2", "01/09/2011", "Developpeur");
+Tache uneTache2 = new Tache( 2, "nom2", "specification Technique2", "date Limite Realisation2", unDeveloppeur2);
+
+Tache uneTache3 = new Tache( 3, "nom3", "specification Technique3", "date Limite Realisation3", unDeveloppeur2);
+		
+Employe unChefDeProjet = new Employe("nomChefProjet", "prenomChefProjet","emailChefProjet","telChefProjet","matriculeChefProjet","03/09/2001","Chef de projet");
+Client unClient = new Client("LOR00001","Dupont","Julien","julien.dupont@orange.fr","02 97 09 55 44","1 rue du port","56100","Loirent");
+Affaire uneAffaire = new Affaire(1,"nomAffaire","02/20.2011","code Etat", unClient, unChefDeProjet);
+		
