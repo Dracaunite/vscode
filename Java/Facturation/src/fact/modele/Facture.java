@@ -120,19 +120,20 @@ public class Facture {
 		// Calcul du prix du port en fonction du poids total de la commande
 		int prixPort = 0;
 		
+		/* Poids de la commande inférieur à 5 kilos */
 		if(totalPoidsCommande() < 5) {
 			prixPort = 5;
 		}
 		
+		/* Poids de la commande compris entre 5 et 10 kilos */
 		else if((5 <= totalPoidsCommande()) && (totalPoidsCommande() <= 10)){
 			prixPort = 10;
 		}
 		
 		else {
-			// Calcule le prix du port selon le poids de la commande
-			for(int i = 0; i < totalPoidsCommande() ; i++) {
-				prixPort += 10;
-			}
+			// La commande est au dessus de 10kg -> 10 euros tous les 10 kilos
+			prixPort = totalPoidsCommande()*10;
+			
 			// Si le chiffre des unités est supérieur à 0, on augmente le prix du port de 10€.
 			if(totalPoidsCommande()%10 > 0) {
 				prixPort += 10;
