@@ -46,7 +46,7 @@ public class AffaireTest {
 		
 		// parcours la collection lesTaches et affiche les renseignements concernant chaque Tache
 		for(Tache uneTache : uneAffaire.getLesTaches()) {
-			System.out.println("Tâche : " + uneTache.getNumero());;
+			System.out.println("Tâche : " + uneTache.getNumero());
 		}
 
 		// test de la méthode retournerIndexTache --------------------------------------------------------------------
