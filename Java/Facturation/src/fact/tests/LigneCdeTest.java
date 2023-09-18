@@ -16,10 +16,10 @@ public class LigneCdeTest {
 		LigneCde uneLigne = new LigneCde(unArticle, 8);
 		
 		// tester la méthode prixLigneHt
-		uneLigne.prixLigneHt();
+		System.out.println("Prix de la commande HT : " + uneLigne.prixLigneHt() + " euros.");
 		
 		// tester la méthode prixLigneTva
-		uneLigne.prixLigneTva();
+		System.out.println("Prix de la ligne TVA : " + uneLigne.prixLigneTva() + " euros.");
 
 	}
 }

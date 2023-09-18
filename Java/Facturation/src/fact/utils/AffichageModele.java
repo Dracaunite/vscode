@@ -20,9 +20,9 @@ public class AffichageModele {
 	public static void afficherArticle(Article unArticle) {
 		System.out.println("Code article : " + unArticle.getCode());
 		System.out.println("Libellé article : " + unArticle.getLibelle());
-		System.out.println("Poids article : " + unArticle.getPoids());
-		System.out.println("Prix HT article : " + unArticle.getPrixHt());
-		System.out.println("Tva article : " + unArticle.getTva());
+		System.out.println("Poids article : " + unArticle.getPoids() + "kg.");
+		System.out.println("Prix HT article : " + unArticle.getPrixHt() + " euros.");
+		System.out.println("Tva article : " + unArticle.getTva() + " euros.");
 	}
 	
 	public static void afficherLigneCde(LigneCde uneLigne) {
@@ -40,11 +40,10 @@ public class AffichageModele {
         	afficherLigneCde(uneLig);
         }
         
-		System.out.println("TotalHt : " + uneFacture.totalPrixHt());
-        System.out.println("TotalHt : " + uneFacture.totalPrixHt());
-        System.out.println("TotalHt : " + uneFacture.totalTva());
-        System.out.println("TotalHt : " + uneFacture.totalPrixTtc());
-        System.out.println("TotalHt : " + uneFacture.totalPoidsCommande());
-        System.out.println("TotalHt : " + uneFacture.calculPrixPort());
+        System.out.println("Total HT : " + uneFacture.totalPrixHt());
+        System.out.println("Total TVA : " + uneFacture.totalTva());
+        System.out.println("Total Prix TTC : " + uneFacture.totalPrixTtc());
+        System.out.println("Total poids de la commande : " + uneFacture.totalPoidsCommande());
+        System.out.println("Total prix du port de la commande : " + uneFacture.calculPrixPort());
 	}
 }
