@@ -107,22 +107,22 @@ public class AffaireTest {
 		Tache uneTache = uneAffaire.retournerTache(2);
 		
 		if(uneTache == null) {
-			AffichageModele.afficherTache(uneTache);
+			System.out.println("La tâche : " + 2 + " n'existe pas.");
 		}
 		
 		else {
-			System.out.println("La tâche : " + 2 + " n'existe pas.");
+			AffichageModele.afficherTache(uneTache);
 		}
 		
 		// cas 2 : la Tache existe dans la collection --> retourne null
 		uneTache = uneAffaire.retournerTache(4);
 		
 		if(uneTache == null) {
-			AffichageModele.afficherTache(uneTache);
+			System.out.println("La tâche : " + 4 + " n'existe pas.");
 		}
 		
 		else {
-			System.out.println("La tâche : " + 4 + " n'existe pas.");
+			AffichageModele.afficherTache(uneTache);
 		}
 	}
 }
